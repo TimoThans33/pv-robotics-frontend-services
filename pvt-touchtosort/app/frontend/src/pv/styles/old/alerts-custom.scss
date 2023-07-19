@@ -1,0 +1,52 @@
+//
+// Custom alerts
+//
+
+// Close button right top 
+.toast-header {
+  display: flex;
+  align-items: start;
+}
+
+//Extra space between close and text
+button.close {
+  margin: 0px 0px 0px 10px;
+}
+
+.b-toaster{
+
+  .close:not(:disabled):not(.disabled):hover, .close:not(:disabled):not(.disabled):focus {
+    opacity: 1;
+    color: #fff;
+  }
+  
+  .close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 1px 0 #fff;
+    opacity: .75;
+  }
+}
+
+button:focus {
+  outline: 1px dotted;
+}
+
+:focus {
+  outline: theme-color("white") dotted 1px;
+}
+
+.is-focus { 
+  cursor: pointer; 
+  }
+
+.is-focus:hover {
+  background-color:theme-color("gray-100");
+}
+
+.is-focus:active {
+  background-color:theme-color("gray-300");
+}

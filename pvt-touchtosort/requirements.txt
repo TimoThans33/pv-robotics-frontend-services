@@ -1,0 +1,9 @@
+Sanic==20.12.1
+sanic-jwt==1.6.0
+Sanic-Cors==0.10.0.post3
+Jinja2==2.11.1
+ConfigParser==5.0.0
+dnspython==1.16.0
+cryptography==3.3.1
+PyJWT==2.0.0
+markupsafe==2.0.1

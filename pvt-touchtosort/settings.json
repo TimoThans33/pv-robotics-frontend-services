@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "executable": "usr/local/bin/primevision/pvt-touchtosort",
+    "type": "service",
+    "restart_policy": "always",
+    "user": "pvadmin"
+  },
+  "instances": [
+    "1"
+  ]
+}

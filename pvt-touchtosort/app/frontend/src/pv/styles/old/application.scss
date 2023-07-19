@@ -1,0 +1,32 @@
+/* global body padding */
+body {
+    height: 100%;
+  }
+  
+  html{
+    height: 100%;
+  }
+  @media (min-width: 768px) {
+    body {
+      height: 100%;
+    }
+    html{
+      height: 100%;
+    }
+  }
+
+  .navbar-fixed-top,
+  .navbar-static-top {
+    border-bottom: 0;
+  }
+  
+  .content-padding{
+    padding-top:    97px;
+    padding-bottom: 50px;
+  }
+
+
+  // Header Custom Typography Lato Light
+  .lato-light {
+    font-family: "Lato Light";
+  }

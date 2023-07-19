@@ -1,0 +1,23 @@
+@each $color, $value in $theme-colors {
+	.btn-#{$color} {
+		&:disabled,
+		&.disabled {
+			// Removed this in order to style the buttons more consistent.
+			// background-color: gray !important;	
+			// border-color: gray !important;
+			&:focus,
+			&.focus {
+				border-color: gray !important;
+				box-shadow: 0 0 0 .2rem gray !important;
+			}
+		}
+		&:not(:disabled):not(.disabled):active,
+		&:not(:disabled):not(.disabled).active {
+			background-color: theme-color("primary");
+			color: theme-color("light");
+			border-color:theme-color("primary");
+
+		}
+	}
+}
+

@@ -1,0 +1,28 @@
+// Default margin
+$spacer-rem: 1rem;
+
+// Spacing 
+//
+// Custom variables. From PV Styleguide. Utilities for quickly spacing items consistently.
+// 8 px grid
+
+$spacer:            8px;
+$spacer-x:          $spacer;
+$spacer-y:          $spacer;
+$grid-gutter-width: $spacer;
+
+$spacer-0: ($spacer * .25);
+$spacer-1: ($spacer * .5);
+$spacer-2: ($spacer * 1);
+$spacer-3: ($spacer * 2);
+$spacer-4: ($spacer * 3);
+$spacer-5: ($spacer * 4);
+$spacer-6: ($spacer * 5);
+$spacer-7: ($spacer * 6);
+
+
+// Default (navigation) bar height
+$nav-height: 70px;
+$nav-height-small: 50px;
+
+$fade-time: 0.15s;

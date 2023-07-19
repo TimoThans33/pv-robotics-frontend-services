@@ -1,0 +1,47 @@
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
+// Default colors
+$white:    #fff ;
+$gray-100: #F8F9FA ;
+$gray-200: #F3F4F5 ;
+$gray-300: #EBECED ;
+$gray-400: #DCDEE0 ;
+$gray-500: #B7BABD ;
+$gray-600: #989B9E ;
+$gray-700: #707375 ;
+$gray-800: #5d5f61 ;
+$gray-900: #333333 ;
+$black:    #2C2D2E ;
+
+// Prime vision colors
+$primary: #B82425;
+$secondary: #00698F;
+$success: #55AF3C;
+$warning: #EFB124;
+
+// Theme override
+$theme-colors: (
+  "primary": $secondary,
+  "secondary": $primary,
+  "success": $success,
+  "info": $gray-600,
+  "warning": $warning,
+  "extra": $warning,
+  "danger": $primary,
+  "dark": $gray-900,
+  "light": $gray-100,
+  "white": $white,
+  "gray-100": $gray-100,
+  "gray-200": $gray-200,
+  "gray-300": $gray-300,
+  "gray-400": $gray-400,
+  "gray-500": $gray-500,
+  "gray-600": $gray-600,
+  "gray-700": $gray-700,
+  "gray-800": $gray-800,
+  "gray-900": $gray-900,
+  "black": $black,
+);
+
+$button-fade-transition-time: 0.1s;

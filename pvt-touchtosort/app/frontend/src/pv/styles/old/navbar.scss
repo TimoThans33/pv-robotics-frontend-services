@@ -1,0 +1,204 @@
+.navbar-light {
+  border-bottom: 0px solid #e2e2e2;
+  padding: 0 !important;
+  .navbar-nav {
+    .nav-link {
+      font-weight: 600;
+    }
+
+    .show > .nav-link,
+    .active > .nav-link,
+    .nav-link.show,
+    .nav-link.active {
+      border-bottom: 3px solid $navbar-light-active-color;
+      font-weight: 600;
+    }
+  }
+}
+.navbar {
+
+  &.fixed {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    top:  0;
+  }
+}
+
+.fixed-nav {
+  position: fixed;
+    width: 100%;
+    z-index: 1000;
+    top:60px;
+}
+
+
+//Top border for the prime vision header
+.border-top-red {
+  border-top:$primevision-red 5px solid;
+}
+
+.drawer {
+  display: none;
+  position: fixed;
+  left: 0;
+  // top: 108px;
+  min-width:14vw;
+  padding-left: 15px;
+  // padding-top: 15px;
+  background: white;
+  color: white;
+  height: calc(100vh - 100px);
+  font-weight: 300;
+  overflow: auto;
+
+  ul.nav {
+    list-style-type: none;
+    padding: 0;
+    .nav-item {
+      .nav-link {
+        padding: 0.75rem;
+        // background-color: #444444;
+        text-decoration: none;
+        color: black;
+        &:hover {
+          color: theme-color("primary");
+        }
+
+        &.active {
+          background: white;
+        }
+      }
+
+      &.parent-item {
+        .sub-items {
+          list-style-type: none;
+          padding-left: 0;
+          display: none;
+          .nav-item {
+            text-decoration: none;
+          }
+        }
+
+        .nav-link.parent::after {
+          display: inline-block;
+          width: 0;
+          height: 0;
+          margin-left: 0.555em;
+          vertical-align: middle;
+          content: "";
+          border-top: 0.3em solid;
+          border-right: 0.3em solid transparent;
+          border-bottom: 0;
+          border-left: 0.3em solid transparent;
+        }
+
+        &.expand {
+          .sub-items {
+            display: block;
+
+            .nav-link {
+              font-size: 14px;
+              padding-left: 40px;
+            }
+          }
+          .nav-link.parent::after {
+            border-left: 0.3em solid transparent;
+            border-right: 0.3em solid transparent;
+            border-bottom: 0.3em solid black;
+            border-top: none;
+          }
+        }
+      }
+    }
+  }
+
+  &.show {
+    display: block;
+  }
+}
+
+// White links against a dark background
+.navbar-dark {
+  padding: 0 0.5rem;
+  .navbar-brand {
+    color: white;
+
+    @include hover-focus {
+      color: $navbar-dark-hover-color;
+    }
+  }
+  .dropdown-toggle::after {
+    display: none !important;
+  }
+
+  .navbar-nav {
+    .nav-link {
+      color: $navbar-dark-color;
+
+      @include hover-focus {
+        color: white;
+      }
+
+      &.disabled {
+        color: $navbar-dark-disabled-color;
+      }
+    }
+
+    .active > .nav-link,
+    .nav-link.active {
+      color: $navbar-dark-active-color;
+      font-weight: 600;
+    }
+  }
+
+  .navbar-toggler {
+    color: $navbar-dark-color;
+    border-color: $navbar-dark-toggler-border-color;
+  }
+
+  .navbar-toggler-icon {
+    background-image: $navbar-dark-toggler-icon-bg;
+  }
+
+  .navbar-text {
+    color: $navbar-dark-color;
+    a {
+      color: $navbar-dark-active-color;
+
+      @include hover-focus {
+        color: $navbar-dark-active-color;
+      }
+    }
+  }
+}
+
+.navbar-nav {
+  margin-left: 30px;
+}
+
+.navbar-dark {
+  background-color: #333333;
+  padding: 0;
+  font-size: $font-size-sm;
+  .navbar-nav {
+    margin-left: 0;
+    .nav-item {
+      background-color: #333333;
+      text-transform: uppercase;
+      .nav-link {
+        padding: 0.5rem 1.25rem;
+      }
+      &:hover {
+        background-color: #666766;
+      }
+      &.active {
+        background-color: #666766;
+        .nav-link {
+          color: white;
+          font-weight: unset;
+        }
+      }
+    }
+  }
+}
