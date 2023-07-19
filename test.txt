@@ -1,0 +1,107 @@
+> 7
+[A[LConnected to ws://172.20.0.3:5556/ws.
+8[B7
+[A[L< {"time":1681914851.9715497,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914851.9715247,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.003144,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.0031147,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.0220819,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.0220542,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"description":{"problem":"","solution":"","title":"Throughput"},"show":true,"time":1681914852.0458128,"topic":"/qb/ds/throughput","type":2,"value":{"code":1,"name":"THROUGHPUT","sender":"qb_ds","severity":0,"throughput":{"0":0,"total_throughput":0}}}
+8[B7
+[A[L< {"time":1681914852.0726717,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.0726187,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.1231894,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.1231604,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.173738,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.1737025,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.2242682,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.2242188,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.2747796,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.274753,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.3253396,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.3252795,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.3758397,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.3757985,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.4263551,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.4263253,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.4768407,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.4768143,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.5274465,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.5273895,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.5779288,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.5779006,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.6285183,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.6284544,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.6789947,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.6789534,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.729556,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.7294872,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.7800412,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.7800066,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.830586,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.8305407,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.881095,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.8810675,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.9316432,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.9315796,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914852.9821427,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914852.9821148,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.0032167,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.0031648,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.0326738,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.0326436,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"description":{"problem":"","solution":"","title":"Throughput"},"show":true,"time":1681914853.0467572,"topic":"/qb/ds/throughput","type":2,"value":{"code":1,"name":"THROUGHPUT","sender":"qb_ds","severity":0,"throughput":{"0":0,"total_throughput":0}}}
+8[B7
+[A[L< {"time":1681914853.0832067,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.0831642,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.1337404,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.1337018,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.1842482,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.184223,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.2348096,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.2347512,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.2853253,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.2852714,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.3357747,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.335745,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.3863926,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.3863347,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.436882,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.4368522,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.4874315,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.4873843,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.5379572,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.537902,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.5884764,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.588439,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.638949,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.6389205,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.6895206,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.6894777,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.740012,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.7399833,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.7905486,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.790526,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.841116,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.8410614,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.891623,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.891585,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.9421382,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.9421136,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914853.9927096,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914853.992658,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914854.0042784,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.0042222,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914854.0431924,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.0431643,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"description":{"problem":"","solution":"","title":"Throughput"},"show":true,"time":1681914854.0475547,"topic":"/qb/ds/throughput","type":2,"value":{"code":1,"name":"THROUGHPUT","sender":"qb_ds","severity":0,"throughput":{"0":0,"total_throughput":0}}}
+8[B7
+[A[L< {"time":1681914854.09374,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.0937026,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914854.1442401,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.1441953,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914854.194765,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.1947126,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B7
+[A[L< {"time":1681914854.2453365,"topic":"/qb/logic/mode","type":2,"value":"{\"clock\":1681914854.2452784,\"config_hash\":8016179371485127179,\"inputs\":{\"/input_gate_1/node_1\":false},\"mode\":2,\"number_of_active_robots\":6,\"plan\":0,\"state\":\"play\"}"}
+8[B
